@@ -1,7 +1,7 @@
 # hangman
 * Created by Crispina Muriel
 
-[URL to static website](https://eloquent-davinci-aa335c.netlify.com)
+[URL to static website](https://elated-snyder-d8c195.netlify.com)
 
 # Minimum Viable Product
 
